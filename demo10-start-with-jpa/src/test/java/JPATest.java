@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class JPATest {
+public class JPATest {
+
+
 }
